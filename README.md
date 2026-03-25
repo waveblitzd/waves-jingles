@@ -4,7 +4,7 @@ A personal repo of jingles for usage in [Cocoon](https://github.com/inssekt/Coco
 
 ## Game List
 
--Bomb Rush Cyberfunk
+- Bomb Rush Cyberfunk
 - ChuChu Rocket!
 - Crazy Taxi
 - Crazy Taxi 2
