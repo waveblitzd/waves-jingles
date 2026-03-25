@@ -48,6 +48,42 @@
 	 {
       "game": "SONIC UNLEASHED",
       "file": "jingles/wii/unleashed.wav"
-	}	
+	},
+	 {
+      "game": "Jet Set Radio",
+      "file": "jingles/dreamcast/jsr.wav"
+	},
+	 {
+      "game": "Sonic Adventure",
+      "file": "jingles/dreamcast/sa1.wav"
+	},
+	 {
+      "game": "Sonic Adventure 2",
+      "file": "jingles/dreamcast/sa2.wav"
+	},
+	 {
+      "game": "Crazy Taxi",
+      "file": "jingles/dreamcast/taxi.wav"
+	},
+	 {
+      "game": "Crazy Taxi 2",
+      "file": "jingles/dreamcast/taxi2.wav"
+	},
+	 {
+      "game": "ChuChu Rocket!",
+      "file": "jingles/dreamcast/chuchu.wav"
+	},
+	 {
+      "game": "SONIC X SHADOW GENERATIONS",
+      "file": "jingles/misc/shadgens.mp3"
+	},
+	  {
+      "game": "Super Smash Bros. Ultimate",
+      "file": "jingles/switch/ssbu.wav"
+	},
+	  {
+      "game": "Sonic Rush",
+      "file": "jingles/ds/rush.wav"
+	},
   ]
 }
