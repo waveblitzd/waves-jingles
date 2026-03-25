@@ -23,7 +23,7 @@ A personal repo of jingles for usage in [Cocoon](https://github.com/inssekt/Coco
 - Super Smash Bros. Brawl
 - Super Smash Bros. Ultimate
 - UNBEATABLE
-- 
+  
 ## Quick Start
 
 1. Use this repository template
