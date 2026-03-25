@@ -1,23 +1,23 @@
 {
-  "name": "wave's jingles",
+  "name": "waves jingle pack",
   "entries": [
     {
       "game": "Sonic and the Black Knight",
       "file": "jingles/wii/blackknight.wav"
-    },
+	 },
     {
       "game": "Super Smash Bros. Brawl",
       "file": "jingles/wii/brawl.wav"
-    },
-	 {
+     },
+	{
       "game": "Sonic Colors",
       "file": "jingles/wii/colors.wav"
 	 },
-	   {
+	{
       "game": "Super Smash Bros. Brawl",
       "file": "jingles/wii/brawl.wav"
-	},
-	 {
+	 },
+    {
       "game": "Sonic and the Secret Rings",
       "file": "jingles/wii/secretrings.wav"
 	 },
@@ -44,7 +44,6 @@
 	 {
       "game": "Bomb Rush Cyberfunk",
       "file": "jingles/steam/bombrushcyberfunk.mp3"
-	}
-	
+	}	
   ]
 }
