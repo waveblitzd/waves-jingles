@@ -1,13 +1,49 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "wave's jingles!",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Sonic and the Black Knight",
+      "file": "jingles/wii/blackknight.wav"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
-    }
+      "game": "Super Smash Bros. Brawl",
+      "file": "jingles/wii/brawl.wav"
+    },
+	 {
+      "game": "Sonic Colors",
+      "file": "jingles/wii/colors.wav"
+	   {
+      "game": "Super Smash Bros. Brawl",
+      "file": "jingles/wii/brawl.wav"
+	},
+	 {
+      "game": "Sonic and the Secret Rings",
+      "file": "jingles/wii/secretrings.wav"
+	 },
+	   {
+      "game": "Mario Strikers Charged",
+      "file": "jingles/wii/strikerscharged.wav"
+	   },  
+	 {
+      "game": "Super Paper Mario",
+      "file": "jingles/wii/superpapermario.wav"
+	},
+	 {
+      "game": "Super Paper Mario",
+      "file": "jingles/wii/superpapermario.wav"
+	},
+	 {
+      "game": "Hatsune Miku: Project Diva Megamix+",
+      "file": "jingles/steam/megamix.mp3"
+	},
+	 {
+      "game": "UNBEATABLE",
+      "file": "jingles/steam/unbeatable.mp3"
+	},
+	 {
+      "game": "Bomb Rush Cyberfunk",
+      "file": "jingles/steam/bombrushcyberfunk.mp3"
+	}
+	
   ]
 }
