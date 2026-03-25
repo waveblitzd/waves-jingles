@@ -3,25 +3,27 @@
 A personal repo of jingles for usage in [Cocoon](https://github.com/inssekt/CocoonFE).
 
 ## Game List
-- Bomb Rush Cyberfunk
+
+-Bomb Rush Cyberfunk
+- ChuChu Rocket!
+- Crazy Taxi
+- Crazy Taxi 2
 - Hatsune Miku: Project DIVA Mega Mix+
-- UNBEATABLE
-- Sonic Rush
+- Jet Set Radio
+- Mario Strikers Charged
+- Sonic Adventure
+- Sonic Adventure 2
 - Sonic and the Black Knight
 - Sonic and the Secret Rings
 - Sonic Colors
+- Sonic Rush
 - Sonic Unleashed
 - Sonic x Shadow Generations
-- Sonic Adventure
-- Sonic Adventure 2
-- Crazy Taxi
-- Crazy Taxi 2
-- Jet Set Radio
-- ChuChu Rocket!
+- Super Paper Mario
 - Super Smash Bros. Brawl
 - Super Smash Bros. Ultimate
-- Super Paper Mario
-- Mario Strikers Charged
+- UNBEATABLE
+- 
 ## Quick Start
 
 1. Use this repository template
