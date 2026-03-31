@@ -6,22 +6,41 @@ A personal repo of jingles for usage in [Cocoon](https://github.com/inssekt/Coco
 
 - Bomb Rush Cyberfunk
 - ChuChu Rocket!
+- Chibi-Robo!
 - Crazy Taxi
 - Crazy Taxi 2
+- F-Zero GX
 - Hatsune Miku: Project DIVA Mega Mix+
 - Jet Set Radio
+- Kirby Air Ride
+- Mario Golf - Toadstool Tour
+- Mario Kart - Double Dash!!
+- Mario Party 6
+- Mario Power Tennis
+- Mario Strikers
 - Mario Strikers Charged
+- Mario Superstar Baseball
+- Parappa the Rapper
+- Parappa the Rapper 2
+- Pikmin
+- Pikmin 2
+- Shadow the Hedgehog
 - Sonic Adventure
 - Sonic Adventure 2
 - Sonic and the Black Knight
 - Sonic and the Secret Rings
 - Sonic Colors
+- Sonic Heroes
+- Sonic Racing: CrossWorlds
+- Sonic Riders
 - Sonic Rush
 - Sonic Unleashed
 - Sonic x Shadow Generations
+- Super Mario Sunshine
 - Super Paper Mario
 - Super Smash Bros. Brawl
 - Super Smash Bros. Ultimate
+- Tony Hawk's Pro Skater 3
 - UNBEATABLE
   
 ## Quick Start
