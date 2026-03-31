@@ -42,6 +42,7 @@ A personal repo of jingles for usage in [Cocoon](https://github.com/inssekt/Coco
 - Super Smash Bros. Ultimate
 - Tony Hawk's Pro Skater 3
 - UNBEATABLE
+- Wario World
   
 ## Quick Start
 
