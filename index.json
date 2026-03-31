@@ -1,6 +1,11 @@
 {
   "name": "waves jingle pack",
   "entries": [
+  
+  { 
+	"_platform": "Wii"
+  },
+  
     {
       "game": "Sonic and the Black Knight",
       "file": "jingles/wii/blackknight.wav"
@@ -34,6 +39,15 @@
       "file": "jingles/wii/superpapermario.wav"
 	},
 	 {
+      "game": "SONIC UNLEASHED",
+      "file": "jingles/wii/unleashed.wav"
+	},
+	
+	{ 
+	"_platform": "Steam"
+	},
+	
+	 {
       "game": "Hatsune Miku: Project DIVA Mega Mix+",
       "file": "jingles/steam/megamix.mp3"
 	},
@@ -45,10 +59,15 @@
       "game": "Bomb Rush Cyberfunk",
       "file": "jingles/steam/bombrushcyberfunk.mp3"
 	},
-	 {
-      "game": "SONIC UNLEASHED",
-      "file": "jingles/wii/unleashed.wav"
+	{
+      "game": "Sonic Racing Crossworlds",
+      "file": "jingles/steam/crossworlds.mp3"
 	},
+	
+	{ 
+	"_platform": "Dreamcast"
+	},
+
 	 {
       "game": "Jet Set Radio",
       "file": "jingles/dreamcast/jsr.wav"
@@ -73,17 +92,120 @@
       "game": "ChuChu Rocket!",
       "file": "jingles/dreamcast/chuchu.wav"
 	},
+	
+	{ 
+	"_platform": "Misc"
+	},
+
 	 {
       "game": "SONIC X SHADOW GENERATIONS",
       "file": "jingles/misc/shadgens.mp3"
 	},
+
+	{ 
+	"_platform": "Switch"
+	},
+
 	  {
       "game": "Super Smash Bros. Ultimate",
       "file": "jingles/switch/ssbu.wav"
 	},
+	
+	{ 
+	"_platform": "DS"
+	},
+
 	  {
       "game": "Sonic Rush",
       "file": "jingles/ds/rush.wav"
+	},
+	
+	{ 
+		"_platform": "GameCube"
+	},
+	
+	 {
+      "game": "Sonic Rush",
+      "file": "jingles/ds/rush.wav"
+	},
+	{
+      "game": "Shadow the Hedgehog",
+      "file": "jingles/gc/shadow.wav"
+	},
+	{
+      "game": "SONIC HEROES",
+      "file": "jingles/gc/heroes.wav"
+	},
+	{
+      "game": "F-Zero GX",
+      "file": "jingles/gc/gx.wav"
+	},
+	{
+      "game": "Chibi-Robo!",
+      "file": "jingles/gc/chibi.wav"
+	},
+	{
+      "game": "Mario Golf: Toadstool Tour",
+      "file": "jingles/gc/golftoad.wav"
+	},
+	{
+      "game": "Mario Kart - Double Dash!!",
+      "file": "jingles/gc/dubdash.wav"
+	},
+	{
+      "game": "Sonic Riders",
+      "file": "jingles/gc/riders.wav"
+	},
+	{
+      "game": "Kirby Air Ride",
+      "file": "jingles/gc/airride.wav"
+	},
+	{
+      "game": "Mario Superstar Baseball",
+      "file": "jingles/gc/superbaseball.wav"
+	},
+	{
+      "game": "Mario Power Tennis",
+      "file": "jingles/gc/powertennis.wav"
+	},
+	{
+      "game": "Pikmin",
+      "file": "jingles/gc/pikmin.wav"
+	},
+	{
+      "game": "Pikmin 2",
+      "file": "jingles/gc/pikmin.wav"
+	},
+	{
+      "game": "Super Mario Strikers",
+      "file": "jingles/gc/strikers.wav"
+	},
+	{
+      "game": "Tony Hawk's Pro Skater 3",
+      "file": "jingles/gc/pro3.wav"
+	},
+	{
+      "game": "Wario World",
+      "file": "jingles/gc/WELCOME.wav"
+	},
+	{
+      "game": "Super Mario Sunshine",
+      "file": "jingles/gc/sunshine.wav"
+	},
+	{ 
+		"_platform": "PlayStation"
+	},
+	{
+      "game": "PaRappa The Rapper",
+      "file": "jingles/ps1/parappa.wav"
+	},
+	{ 
+		"_platform": "PlayStation 2"
+	},
+	{
+      "game": "PaRappa The Rapper 2",
+      "file": "jingles/ps1/parappa2.wav"
 	}
+	
   ]
 }
