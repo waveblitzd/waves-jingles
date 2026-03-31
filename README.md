@@ -1,9 +1,29 @@
-# Jingle Repo Example
+# wave's jingles
 
-A template repository for creating Cocoon jingle packs. Use this template
-to build your own collection of game jingles that can be used with
-[Cocoon](https://github.com/inssekt/CocoonFE).
+A personal repo of jingles for usage in [Cocoon](https://github.com/inssekt/CocoonFE).
 
+## Game List
+
+- Bomb Rush Cyberfunk
+- ChuChu Rocket!
+- Crazy Taxi
+- Crazy Taxi 2
+- Hatsune Miku: Project DIVA Mega Mix+
+- Jet Set Radio
+- Mario Strikers Charged
+- Sonic Adventure
+- Sonic Adventure 2
+- Sonic and the Black Knight
+- Sonic and the Secret Rings
+- Sonic Colors
+- Sonic Rush
+- Sonic Unleashed
+- Sonic x Shadow Generations
+- Super Paper Mario
+- Super Smash Bros. Brawl
+- Super Smash Bros. Ultimate
+- UNBEATABLE
+  
 ## Quick Start
 
 1. Use this repository template
