@@ -154,6 +154,10 @@
       "file": "jingles/gc/sunshine.wav"
 	},
 	{
+      "game": "Mario Party 6",
+      "file": "jingles/gc/mp6.wav"
+	},
+	{
       "game": "PaRappa The Rapper",
       "file": "jingles/ps1/parappa.wav"
 	},
