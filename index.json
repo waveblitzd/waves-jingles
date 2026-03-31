@@ -1,11 +1,6 @@
 {
   "name": "waves jingle pack",
   "entries": [
-  
-  { 
-	"_platform": "Wii"
-  },
-  
     {
       "game": "Sonic and the Black Knight",
       "file": "jingles/wii/blackknight.wav"
@@ -42,11 +37,6 @@
       "game": "SONIC UNLEASHED",
       "file": "jingles/wii/unleashed.wav"
 	},
-	
-	{ 
-	"_platform": "Steam"
-	},
-	
 	 {
       "game": "Hatsune Miku: Project DIVA Mega Mix+",
       "file": "jingles/steam/megamix.mp3"
@@ -63,11 +53,6 @@
       "game": "Sonic Racing Crossworlds",
       "file": "jingles/steam/crossworlds.mp3"
 	},
-	
-	{ 
-	"_platform": "Dreamcast"
-	},
-
 	 {
       "game": "Jet Set Radio",
       "file": "jingles/dreamcast/jsr.wav"
@@ -92,39 +77,15 @@
       "game": "ChuChu Rocket!",
       "file": "jingles/dreamcast/chuchu.wav"
 	},
-	
-	{ 
-	"_platform": "Misc"
-	},
-
 	 {
       "game": "SONIC X SHADOW GENERATIONS",
       "file": "jingles/misc/shadgens.mp3"
 	},
-
-	{ 
-	"_platform": "Switch"
-	},
-
 	  {
       "game": "Super Smash Bros. Ultimate",
       "file": "jingles/switch/ssbu.wav"
 	},
-	
-	{ 
-	"_platform": "DS"
-	},
-
 	  {
-      "game": "Sonic Rush",
-      "file": "jingles/ds/rush.wav"
-	},
-	
-	{ 
-		"_platform": "GameCube"
-	},
-	
-	 {
       "game": "Sonic Rush",
       "file": "jingles/ds/rush.wav"
 	},
@@ -192,15 +153,9 @@
       "game": "Super Mario Sunshine",
       "file": "jingles/gc/sunshine.wav"
 	},
-	{ 
-		"_platform": "PlayStation"
-	},
 	{
       "game": "PaRappa The Rapper",
       "file": "jingles/ps1/parappa.wav"
-	},
-	{ 
-		"_platform": "PlayStation 2"
 	},
 	{
       "game": "PaRappa The Rapper 2",
